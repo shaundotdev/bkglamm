@@ -127,7 +127,7 @@ npm run dev
 ```
 
 - Storefront → ([http://localhost:3000](https://bkglamm.vercel.app/))
-- Admin panel → ([http://localhost:3000/admin](https://bkglamm.vercel.app/)) 
+- Admin panel → ([http://localhost:3000/admin](https://bkglamm.vercel.app/admin)) 
 
 Create your first admin user when prompted on the admin first run.
 
