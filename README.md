@@ -85,7 +85,7 @@ src/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/bkglamm.git
+git clone https://github.com/shaundotdev/bkglamm.git
 cd bkglamm
 ```
 
