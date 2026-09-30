@@ -126,8 +126,8 @@ NEXT_PUBLIC_SERVER_URL=http://localhost:3000
 npm run dev
 ```
 
-- Storefront → [http://localhost:3000](http://localhost:3000)
-- Admin panel → [http://localhost:3000/admin](http://localhost:3000/admin)
+- Storefront → ([http://localhost:3000](https://bkglamm.vercel.app/))
+- Admin panel → ([http://localhost:3000/admin](https://bkglamm.vercel.app/)) 
 
 Create your first admin user when prompted on the admin first run.
 
